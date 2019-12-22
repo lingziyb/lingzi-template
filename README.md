@@ -1,2 +1,2 @@
-# vue-cli
-write a vue-cli
+# lingzi-template
+write a vue template
