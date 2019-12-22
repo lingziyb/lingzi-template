@@ -2,7 +2,7 @@
   "name": "lingzi-template",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/lingziyb/vue-cli.git",
+  "repository": "https://github.com/lingziyb/lingzi-template.git",
   "author": "赵苓利 <zhaolinglizll@qq.com>",
   "license": "MIT",
   "scripts": {
